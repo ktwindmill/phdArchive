@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Katie Tindle, practice based PhD
 ---
 
-Hello world!
-
-Write some words here!
+This is a version of the obsidian vault where I am developing my practice based research project.
