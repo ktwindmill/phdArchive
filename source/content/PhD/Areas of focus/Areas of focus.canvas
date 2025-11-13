@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"69e1449bd076e935","x":-580,"y":-380,"width":200,"height":200,"type":"text","text":"Fan fiction"},
+		{"id":"0995c4aa852e2ebd","x":-345,"y":-380,"width":225,"height":200,"type":"text","text":"Mediated Artist essay"},
+		{"id":"be02286a09e0d7ee","type":"text","text":"Three areas of focus","x":-345,"y":-480,"width":225,"height":70},
+		{"id":"8c5f465ae54deb6d","x":-80,"y":-380,"width":220,"height":200,"type":"text","text":"Disseminating and activating collectively "}
+	],
+	"edges":[
+		{"id":"dbaaf7d744f6e095","fromNode":"be02286a09e0d7ee","fromSide":"left","toNode":"69e1449bd076e935","toSide":"top"},
+		{"id":"f8ce96019e5302b1","fromNode":"be02286a09e0d7ee","fromSide":"bottom","toNode":"0995c4aa852e2ebd","toSide":"top"},
+		{"id":"89eb61d8d93f1387","fromNode":"be02286a09e0d7ee","fromSide":"right","toNode":"8c5f465ae54deb6d","toSide":"top"}
+	]
+}
