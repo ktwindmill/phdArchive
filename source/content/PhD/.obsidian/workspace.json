@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc notes and diaries/Practice map.md",
+                "file": "private/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice map"
+              "title": "Test"
             }
           },
           {
@@ -302,8 +302,10 @@
       }
     ]
   },
-  "active": "8f62ad8d50f2c18d",
+  "active": "eeea9c46f42b1a12",
   "lastOpenFiles": [
+    "Misc notes and diaries/Practice map.md",
+    "private/Test.md",
     "private",
     "Untitled.md",
     "private/Fan fiction attempt 1..md",
@@ -314,7 +316,6 @@
     "private",
     "Templates/Supervision meeting no..md",
     "Misc notes and diaries/Practice mapping.md",
-    "Misc notes and diaries/Practice map.md",
     "Misc notes and diaries/Notes about inconsistencies.md",
     "Misc notes and diaries/2025-10-03.md",
     "Misc notes and diaries/03.10.2025.md",
@@ -340,7 +341,6 @@
     "Templates",
     "Reading List/Preliminary reading list.md",
     "Reading List/Journals & publications.md",
-    "Untitled.base",
     "Tools/Plugin tutorial pages.md",
     "IMG_1604.jpg",
     "Media/IMG_1604.PNG",
