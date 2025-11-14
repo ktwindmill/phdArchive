@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadingNotes/25 Winter/Notes - 13 Ways of Looking at AI, Art & Music.md",
+                "file": "Private/Fan fiction attempt 1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes - 13 Ways of Looking at AI, Art & Music"
+              "title": "Fan fiction attempt 1."
             }
           },
           {
@@ -278,9 +278,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "ReadingNotes/25 Winter/Walshe_2023_13_ways_of.pdf",
-                    "page": 6,
+                    "page": 8,
                     "left": 5,
-                    "top": 91,
+                    "top": 811,
                     "zoom": 0.78
                   },
                   "icon": "lucide-file-text",
@@ -318,8 +318,21 @@
   },
   "active": "548ecef72d70f7b6",
   "lastOpenFiles": [
-    "ReadingNotes/25 Winter/Walshe_2023_13_ways_of.pdf",
+    "Private/Skeleton story.md",
+    "Private/Fan fiction attempt 1..md",
+    "Overview.base",
+    "Supervision meeting notes/Supervision meeting no. 3.md",
+    "Private",
+    "Templates/Supervision meeting no..md",
+    "Misc notes and diaries/Practice mapping.md",
+    "Misc notes and diaries/Practice map.md",
+    "Misc notes and diaries/Notes about inconsistencies.md",
+    "Misc notes and diaries/2025-10-03.md",
+    "Misc notes and diaries/03.10.2025.md",
+    "Supervision meeting notes/02.10.2025.md",
+    "Supervision meeting notes/2025-10-31.md",
     "ReadingNotes/25 Winter/Notes - 13 Ways of Looking at AI, Art & Music.md",
+    "ReadingNotes/25 Winter/Walshe_2023_13_ways_of.pdf",
     "Areas of focus/Mediated Artist essay.md",
     "Areas of focus/Fan fiction and genre hopping.md",
     "ReadingNotes/25 Winter/Notes - Zines and Computational Publishing Practices.md",
@@ -333,30 +346,18 @@
     "Areas of focus/Areas of focus.canvas",
     "Areas of focus/Disseminating and activating collectively.md",
     "Research website",
-    "Overview.base",
-    "Misc notes and diaries/03.10.2025.md",
     "ReadingNotes/25 Winter",
     "ReadingNotes/Untitled.md",
     "ReadingNotes",
-    "Misc notes and diaries/Practice mapping.md",
-    "Templates/Supervision meeting no. 3.md",
-    "Misc notes and diaries/Practice map.md",
-    "Misc notes and diaries/Notes about inconsistencies.md",
-    "Misc notes and diaries/2025-10-03.md",
-    "Templates/Supervision meeting no..md",
     "Templates",
-    "Supervision meeting notes/02.10.2025.md",
-    "Supervision meeting notes/2025-10-31.md",
     "Reading List/Preliminary reading list.md",
     "Reading List/Journals & publications.md",
     "Untitled.base",
-    "Untitled 1.base",
     "Tools/Plugin tutorial pages.md",
     "Tools/Obsidian syntax.md",
     "IMG_1604.jpg",
     "Media/IMG_1604.PNG",
     "Reading List/Untitled.canvas",
-    "01_General syntax.md",
-    "Welcome.md"
+    "01_General syntax.md"
   ]
 }

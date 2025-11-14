@@ -10,6 +10,7 @@ If we start counting from 1st of October, week 6
 - [ ] Write a fan fic
 - [ ] Create the three areas of interest
 - [ ] Create a Gannt chart?
+- [ ] Ask to access Iris and Jeremy's module?
  
 ## Tasks for next week
 
