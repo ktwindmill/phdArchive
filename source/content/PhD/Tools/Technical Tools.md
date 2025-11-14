@@ -8,7 +8,5 @@
 comfy ui
 cursor
 media pipe
-
 prompt engineering
-
 Peer tube
