@@ -10,3 +10,5 @@ cursor
 media pipe
 prompt engineering
 Peer tube
+
+How do we feel about hot glue?

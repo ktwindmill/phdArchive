@@ -9,6 +9,7 @@ views:
       - "]"
       - Unread
       - file.ext
+      - Paper
     sort:
       - property: new thing
         direction: ASC

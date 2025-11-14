@@ -8,12 +8,13 @@ The Fanfiction Reader: Folk Tales for the Digital Age
 edited by Francesca Coppa
 
 
-[https://doi.org/10.7146/aprja.v13i1.151224](https://doi.org/10.7146/aprja.v13i1.151224)
-
-Zines And Computational Publishing Practices
+- [x] Zines And Computational Publishing Practices
 A Countercultural Primer
 Kendal BeynonLondon South Bank University
+[https://doi.org/10.7146/aprja.v13i1.151224](https://doi.org/10.7146/aprja.v13i1.151224)
 
+- [ ] 13 Ways of Looking at AI, Art & Music by Jennifer Walshe
+https://ora.ox.ac.uk/objects/uuid:0d1b0713-9060-491e-a9fd-a79913e4c567/files/spg15bh60z
 
 ---- 
 
