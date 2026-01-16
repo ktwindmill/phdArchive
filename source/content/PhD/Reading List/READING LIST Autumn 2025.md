@@ -27,3 +27,8 @@ https://ora.ox.ac.uk/objects/uuid:0d1b0713-9060-491e-a9fd-a79913e4c567/files/spg
 * Mulvey, Laura (2004) Passing time: reflections on cinema from a new technological age. Screen 45 (2), pp. 142-155. ISSN 0036-9543.
 
 
+https://www.poetryfoundation.org/articles/69224/born-digital Born Digital Stephanie Strickland
+
+https://www.jstor.org/stable/10.5749/j.cttttjbd Digital art and meaning, text machines
+
+Sara Ahmed, Queering stuff I should read
