@@ -14,7 +14,7 @@ Sleep
 
 Scanner/Scan/Exam/Examine
 
-Servpub (in a general sense) but particularly praxis doubling probably
+Servpub (in a general sense) but particularly praxis doubling probably (Case study?)
 
 Video with added stress?
 
