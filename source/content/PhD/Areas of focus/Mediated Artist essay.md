@@ -6,3 +6,4 @@ Ai training and mimicry of style
 Copy pasta
 Creepy pasta
 
+[[Areas of focus.canvas|Areas of focus]]

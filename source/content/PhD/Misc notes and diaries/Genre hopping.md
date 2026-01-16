@@ -15,3 +15,6 @@ What are the cadences of this moving through different genres or methods. Is it 
 Sampling, remixing, infringing on copyright.
 
 I'm repeating myself.
+
+
+[[Fan fiction and genre hopping]]

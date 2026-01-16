@@ -6,3 +6,6 @@
 * My practice as an individual producer of events and web based collections
 	* The listening booth
 	* GGeorge
+
+
+[[Areas of focus.canvas|Areas of focus]]

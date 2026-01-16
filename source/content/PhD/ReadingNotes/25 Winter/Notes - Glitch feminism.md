@@ -63,3 +63,28 @@ I feel like I want to be this but I'm not. I consume a lot online, but I don't a
 > > E. Jane’s naming and claiming of “multiple selves” pushes back against a flattened reading of historically othered bodies—intersectional bodies who have traveled restlessly, gloriously, through narrow spaces. These are the selves that, as writer and activist Audre Lorde wrote in her 1978 poem “A Litany for Survival,” “live at the shoreline” and “were never meant to survive.
 > 
 > 
+
+> [!PDF|] [[GlitchFem.pdf#page=23&selection=25,10,25,35|GlitchFem, p.23]]
+> > “alter-ego” avatar Mhysa.
+
+Avatar v alter-ego. What is it to be more than one thing, one version of working - can I do this under one name? In this came as an alter ego then an extension of self. 
+
+I keep knocking up against the idea of continually thinking of self here - who gives a shit about me etc. Maybe the thing is not to be thinking of how this frames me and my practice, but how it can be a method of magpieing bits of selves? I am white, cis female, queer and disabled (but invisibly disabled (and I personally feel weird about claiming that being able bodied despite having the legal status), queer in a straight relationship). I feel like genre swapping/hopping could be considered glitching/dragging but is this appropriate (probably, who says it's not)?
+
+> [!PDF|] [[GlitchFem.pdf#page=25&selection=10,25,15,9|GlitchFem, p.25]]
+> > “We have been cast out of straight time’s rhythm, and we have made worlds in our temporal and spatial configurations.” 5 
+> 
+
+#PotentialReading Esteban Muñoz Cruising Utopia
+
+> ([[GlitchFem.pdf#page=25&selection=19,0,21,71|GlitchFem, p.25]])
+> The oblique romance of Internet-as-utopia, against this backdrop reality, should not be dismissed as naïve. Imbuing digital material with fantasy today is not a retro act of mythologizing; it continues as a survival mechanism.
+
+I agree and I don't. I'm maybe more sceptical but then again, I'm continually living as other people (borrowing tropes) rather than another version of myself. Is that the difference between genre hopping and alter-egoing?
+
+
+
+
+
+
+

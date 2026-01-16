@@ -25,32 +25,14 @@
             "id": "ea50473313c42c67",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Media/Texts/GlitchFem.pdf",
-                "page": 22,
-                "left": -24,
-                "top": 512,
-                "zoom": 0.6850490196078433
+                "file": "Practice/List of works.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GlitchFem"
-            }
-          },
-          {
-            "id": "b1bac53564288c74",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Media/Texts/GlitchFem.pdf",
-                "page": 15,
-                "left": -24,
-                "top": 426,
-                "zoom": 0.6850490196078433
-              },
-              "icon": "lucide-file-text",
-              "title": "GlitchFem"
+              "icon": "lucide-file",
+              "title": "List of works"
             }
           }
         ],
@@ -258,49 +240,85 @@
         "height": 875,
         "maximize": false,
         "zoom": -0.5
+      },
+      {
+        "id": "02c2e965f70555b3",
+        "type": "window",
+        "children": [
+          {
+            "id": "361f631913ba3370",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1bac53564288c74",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Media/Texts/GlitchFem.pdf",
+                    "page": 24,
+                    "left": -18,
+                    "top": 96,
+                    "zoom": 0.8909313725490198
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "GlitchFem"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 32,
+        "width": 700,
+        "height": 867,
+        "maximize": false,
+        "zoom": -0.5
       }
     ]
   },
   "active": "ea50473313c42c67",
   "lastOpenFiles": [
+    "Research website/Tasks.md",
     "ReadingNotes/25 Winter/Notes - Glitch feminism.md",
+    "Misc notes and diaries/Terms.md",
     "Media/Texts/GlitchFem.pdf",
     "ReadingNotes/25 Winter/Notes - Zines and Computational Publishing Practices.md",
+    "Supervision meeting notes/2025.02.10.md",
+    "Practice/Musings on practice.md",
+    "Misc notes and diaries/Genre hopping.md",
+    "Practice/List of works.md",
+    "Areas of focus/Fan fiction and genre hopping.md",
+    "private/Skeleton story.md",
+    "Practice",
+    "Areas of focus/Mediated Artist essay.md",
+    "Areas of focus/Disseminating and activating collectively.md",
+    "Misc notes and diaries/Practice map.md",
+    "Misc notes and diaries/Notes about inconsistencies.md",
+    "Misc notes and diaries/2025-10-03.md",
     "ReadingNotes/25 Winter/Notes - 13 Ways of Looking at AI, Art & Music.md",
     "Reading List/READING LIST Autumn 2025.md",
-    "Misc notes and diaries/Practice map.md",
     "Misc notes and diaries/Practice mapping.md",
     "Media/Internet_dog.jpg",
     "Media/Unconfirmed 414604.crdownload",
     "Supervision meeting notes/2026.01.16.md",
-    "Supervision meeting notes/2025.02.10.md",
     "Supervision meeting notes/2025.14.10.md",
     "Supervision meeting notes/2025.31.10.md",
     "Media/notesAboutInconsistency.pdf",
     "Areas of focus/Areas of focus.canvas",
-    "Areas of focus/Mediated Artist essay.md",
-    "Areas of focus/Fan fiction and genre hopping.md",
-    "Areas of focus/Disseminating and activating collectively.md",
     "Artist references/Artists.md",
     "private/03.10.2025.md",
-    "Misc notes and diaries/2025-10-03.md",
-    "Misc notes and diaries/Genre hopping.md",
-    "Misc notes and diaries/Notes about inconsistencies.md",
     "Media/Practice map.jpg",
     "Media/Phd[13].pdf",
     "private/Diary 16th Jan 26.md",
-    "private/Skeleton story.md",
     "private/Test.md",
     "Templates/Supervision meeting no..md",
-    "Reading List/Preliminary reading list.md",
     "Overview.base",
-    "Supervision meeting notes/Meeting notes supervisory meeting no 3..md",
     "Media/Texts/Walshe_2023_13_ways_of.pdf",
     "Media/Texts",
     "Proposal/Research proposal.pdf",
     "Media/Texts/Zines_And_Computational_Publishing_Practices_A_Cou.pdf",
-    "private",
-    "private/Fan fiction attempt 1..md",
     "IMG_1604.jpg",
     "Media/IMG_1604.PNG",
     "Reading List/Untitled.canvas"

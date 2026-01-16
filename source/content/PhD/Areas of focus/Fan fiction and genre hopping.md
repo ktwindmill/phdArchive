@@ -16,4 +16,7 @@ I still find it embarrassing - I was explaining my interest to a colleague in a 
 
 
 ## Conversation with Iris
-I had a conversation with Iris about genre, and differing perspectives on genre, and the rejection of genre as a concept
+I had a conversation with Iris about genre, and differing perspectives on genre, and the rejection of genre as a concept as a whole. #todo Refer to notes
+
+[[Areas of focus.canvas|Areas of focus]]
+

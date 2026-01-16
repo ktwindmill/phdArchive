@@ -1,0 +1,1 @@
+It's also interesting to think about what it means for something to be my 'practice' and not practice i.e. when is what I make a hobby/when is it a 'work'. When is it admin, unglamorous labour, glamorous labour (as discussed with Femke Snelting at the openbookfutures event).
