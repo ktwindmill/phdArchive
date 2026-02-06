@@ -2,7 +2,7 @@
 Format: Book/magazine
 Subject: Creative AI
 ---
-**The Ted Lasso fan shipping Ted-Trent not only wants characters Ted Lasso and Trent Crimm to get it on, they are also convinced that the writers have been leaving clues as to Ted & Trent’s feelings in every scene, uniquely for them to find, and they have the screenshots on their Tumblr to prove it.**
+****The Ted Lasso fan shipping Ted-Trent not only wants characters Ted Lasso and Trent Crimm to get it on, they are also convinced that the writers have been leaving clues as to Ted & Trent’s feelings in every scene, uniquely for them to find, and they have the screenshots on their Tumblr to prove it.**
 
 - I'm not sure that is the case - used for affect here, but feels reductive i.e. Fan fiction writers obsessive/crazy.
 - Does make the point about shipping real people becoming obsessive, and there is a side to internet fan culture, and fan culture in general which is unhealthy, but from what I gather, rare - but I'm making assumptions.
