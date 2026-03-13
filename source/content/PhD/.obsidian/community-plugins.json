@@ -4,5 +4,6 @@
   "dataview",
   "pdf-plus",
   "obsidian-file-info-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-file-color"
 ]

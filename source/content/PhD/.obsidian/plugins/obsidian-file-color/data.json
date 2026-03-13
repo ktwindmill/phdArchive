@@ -1,0 +1,51 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "VP00iOYe_PuPVqgot-lDC",
+      "name": "Haven't started",
+      "value": "#ff0000"
+    },
+    {
+      "id": "6-rO7sCI6JyNbuLEboatk",
+      "name": "Half read",
+      "value": "#ffae00"
+    },
+    {
+      "id": "x8mrRqZZHmY1rkF5v3P23",
+      "name": "Read once",
+      "value": "#00ff40"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Media/Texts/Examining_Collaborative_Fanfiction_New_Practices_i.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Cinematic Intermediality.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/GlitchFem.pdf",
+      "color": "6-rO7sCI6JyNbuLEboatk"
+    },
+    {
+      "path": "Media/Texts/Walshe_2023_13_ways_of.pdf",
+      "color": "6-rO7sCI6JyNbuLEboatk"
+    },
+    {
+      "path": "Media/Texts/Zines_And_Computational_Publishing_Practices_A_Cou.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Theorizing_Film_Through_Contemporary_Art_-_Jill_Murphy.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/Rees_AL_A_History_of_Experimental_Film_and_Video_1999.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    }
+  ]
+}

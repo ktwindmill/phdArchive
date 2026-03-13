@@ -5,3 +5,7 @@ Sam Lavigne
 Nina Davies
 Heather Philipson
 Laurence Lek
+
+
+
+Cindy Sherman?
