@@ -11,16 +11,14 @@
             "id": "9f42453c10441da1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Media/Texts/Trope Propagation in the Cultural SpaceTrope Propagation in the Cultural Space.pdf",
-                "page": 1,
-                "left": -23,
-                "top": 792,
-                "zoom": 0.6740196078431373
+                "file": "Artist references/Artists.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Trope Propagation in the Cultural SpaceTrope Propagation in the Cultural Space"
+              "icon": "lucide-file",
+              "title": "Artists"
             }
           }
         ]
@@ -191,47 +189,87 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f62ad8d50f2c18d",
+  "floating": {
+    "id": "325c8bdca0cb6510",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bc457b7b569bd184",
+        "type": "window",
+        "children": [
+          {
+            "id": "994a12c6b53d6e57",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6751e1629aba6fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ReadingNotes/26 - March -/Notes - chapters 1 & 2 Altman, Film Genre.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes - chapters 1 & 2 Altman, Film Genre"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 836,
+        "y": 25,
+        "width": 604,
+        "height": 875,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "9f42453c10441da1",
   "lastOpenFiles": [
+    "Writing/Literature review.md",
+    "Summer plan 2026.md",
+    "Supervision meeting notes/2026.03.20.md",
+    "Writing",
+    "Supervision meeting notes/2026.03.13.md",
     "Media/Texts/Request list library access.md",
-    "Media/Texts/Trope Propagation in the Cultural SpaceTrope Propagation in the Cultural Space.pdf",
-    "Media/Texts/Rees_AL_A_History_of_Experimental_Film_and_Video_1999.pdf",
-    "Media/Texts/The Auto-Tuned Self- Modulating Voice and Gender in Digital Media Ecologies.pdf",
-    "Media/Texts/Theorizing_Film_Through_Contemporary_Art_-_Jill_Murphy.pdf",
-    "ReadingNotes/25 - 26 Winter/Notes - Cinematic Intermediaries.md",
-    "ReadingNotes/25 - 26 Winter/Notes - 13 Ways of Looking at AI, Art & MusicMN.md",
-    "Media/Texts/Cinematic Intermediality.pdf",
-    "Media/Practice map.jpg",
-    "Media/Phd[13].pdf",
+    "Areas of focus/Fan fiction and genre hopping.md",
+    "Media/Texts/2006.05380v3.pdf",
+    "ReadingNotes/26 - March -/Notes - chapters 1 & 2 Altman, Film Genre.md",
+    "Media/Texts/altman-film-genre-ch-1-and-2.pdf",
+    "ReadingNotes/Notes - I am a girl and a PDF.md",
+    "ReadingNotes/26 - March -/Notes -  A SemanticSyntactic Approach to Film Genre.md",
+    "Media/Texts/Altman-SemanticSyntacticApproachFilm-1984.pdf",
     "Media/notesAboutInconsistency.pdf",
+    "ReadingNotes/Notes - Cinematic Intermediaries.md",
+    "ReadingNotes/25 - 26 Winter/Notes - Horror, a literary history.md",
+    "ReadingNotes/25 - 26 Winter/Notes - Glitch feminism.md",
+    "ReadingNotes/25 - 26 Winter/Notes - Examining Collaborative Fanfiction.md",
+    "ReadingNotes/25 - 26 Winter/Notes - 13 Ways of Looking at AI, Art & MusicMN.md",
+    "ReadingNotes/26 - March -",
+    "ReadingNotes/25 - 26 Winter/Notes - Zines and Computational Publishing Practices.md",
+    "Artist references/Artists.md",
+    "Media/Texts/Powers of Horror.pdf",
+    "Venues and activities/Libraries and Archives.md",
+    "Media/Texts/Hollywood Genres (Thomas Schatz).pdf",
+    "Media/Texts/spearman-2024-a-quantitative-and-qualitative-exploration-of-futuristic-narratives-on-tvtropes-org.pdf",
+    "Media/Texts/Crowd-based_Information_Organization__A_Case_Study_of_the_Folk_Ontologies_in_Wikipedia_and_TV_Tropes.pdf",
+    "Venues and activities/Reading groups.md",
+    "Venues and activities/Film festivals.md",
+    "Media/Practice map.jpg",
     "Media/Internet_dog.jpg",
     "Media/ahs-american-horror-story.gif",
-    "Media/Texts/Zines_And_Computational_Publishing_Practices_A_Cou.pdf",
-    "Media/Texts/Walshe_2023_13_ways_of.pdf",
-    "Media/Texts/GlitchFem.pdf",
-    "Artist references/Artists.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Examining Collaborative Fanfiction.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Horror, a literary history.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Zines and Computational Publishing Practices.md",
-    "ReadingNotes/25 - 26 Winter/Notes - I am a girl and a PDF.md",
-    "Venues and activities/Libraries and Archives.md",
     "Tools/Resources.md",
-    "Summer plan 2026.md",
     "Research website/Tasks.md",
     "Supervision meeting notes/2025.14.10.md",
-    "Supervision meeting notes/2026.03.12.md",
     "Supervision meeting notes/2026.02.06.md",
     "Applications overview.md",
     "Presentations/Computing PhD Student research afternoons call for talks.md",
     "Supervision meeting notes/2026.01.30.md",
-    "Practice/Practice map.md",
-    "Venues and activities/Reading groups.md",
     "Venues and activities/Untitled.canvas",
-    "Misc notes and diaries/Terms.md",
-    "Supervision meeting notes/2026.01.16.md",
-    "Supervision meeting notes/2025.02.10.md",
-    "Areas of focus/Mediated Artist essay.md",
-    "Misc notes and diaries/Genre hopping.md",
     "Areas of focus/Areas of focus.canvas",
     "IMG_1604.jpg",
     "Media/IMG_1604.PNG",

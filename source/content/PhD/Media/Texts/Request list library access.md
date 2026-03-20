@@ -15,3 +15,5 @@ Fan Cultures, Matt Hills Online access
 Haunted Technologies, Network Panic and the Found Footage Phenomenon
 
 [Xavier Aldana Reyes (Anthology Editor)](https://www.bloomsbury.com/uk/author/xavier-aldana-reyes/) , [Linnie Blake (Anthology Editor)](https://www.bloomsbury.com/uk/author/linnie-blake/)
+
+Hauntology in general Mark Fischer
