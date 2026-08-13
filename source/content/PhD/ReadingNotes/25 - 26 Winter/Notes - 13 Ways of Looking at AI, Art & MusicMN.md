@@ -14,7 +14,7 @@ Subject: Creative AI
 * Many fan fic and drawing sites are anti ai content - does copying matter less if its hand drawn?
 * Think about Nina's research into copywriting dancing
 
-**For artists like myself and many others, “A.I.” represents new, un-dreamt of forms of art, genres which noone has ever heard, joyous and life-affirming ways of making art and music which are beyond our comprehension, just over the horizon of the vibe shift. We are bullish on “A.I.”**
+**For [[artists]] like myself and many others, “A.I.” represents new, un-dreamt of forms of art, genres which noone has ever heard, joyous and life-affirming ways of making art and music which are beyond our comprehension, just over the horizon of the vibe shift. We are bullish on “A.I.”**
 
 **AI isn’t coming for your jobs. Humans are. “A.I.” is a way to avoid talking about that.**
 

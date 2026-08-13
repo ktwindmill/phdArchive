@@ -1,15 +1,19 @@
 
-## April 
+* Start attending page of wands writing group
 
+## March/April 
 Genre
+## April 
+Genre
+Artists who borrow/steal
+
 
 ## May
-
 Art and cinema
+Artists who
+
 ## June
-
-Horror
-
+Horror specifically?
 Weekend retreat
 
 ## July 
@@ -20,6 +24,8 @@ Semiotics?
 
 ## September
 
+
+---
 
 
 * Networking - who do I want to be connected to/with?
@@ -33,5 +39,8 @@ Mix of recent text and some more historical contrasting viewpoints
 *Contemporary month, historical month, films looking at films*
 
 Funding!
+
+
+
 
 

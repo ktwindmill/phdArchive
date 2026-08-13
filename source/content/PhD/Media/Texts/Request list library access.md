@@ -4,6 +4,8 @@ Book by Cecilia Sayad
 
 The State of Post-Cinema: Tracing the Moving Image in the Age of Digital Dissemination
 
+Limits of Horror: Technology, bodies, Gothic Fred Botting https://www.jstor.org/stable/j.ctt155j8wq\
+
 
 
 Library

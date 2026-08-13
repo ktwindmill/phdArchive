@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "78498614ac569fee",
+        "id": "532e398902ccd1b0",
         "type": "tabs",
         "children": [
           {
-            "id": "9f42453c10441da1",
+            "id": "ce7fbb4b8a4ac8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artist references/Artists.md",
+                "file": "ReadingNotes/26 June/FAE Public AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artists"
+              "title": "FAE Public AI"
+            }
+          },
+          {
+            "id": "4f92ea0e658c0a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice/26 June 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 June 2026"
+            }
+          },
+          {
+            "id": "3325fb7edf00f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Literature review (20-30)/Literature review framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature review framework"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "e1e1c830852e9d21",
@@ -94,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List/Preliminary reading list.md",
+                "file": "Summer plan 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Preliminary reading list"
+              "title": "Backlinks for Summer plan 2026"
             }
           },
           {
@@ -165,12 +194,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,87 +218,87 @@
     }
   },
   "floating": {
-    "id": "325c8bdca0cb6510",
+    "id": "481e2907d95a2dd4",
     "type": "floating",
     "children": [
       {
-        "id": "bc457b7b569bd184",
+        "id": "456e7a53812ee6c9",
         "type": "window",
         "children": [
           {
-            "id": "994a12c6b53d6e57",
+            "id": "d322452179377317",
             "type": "tabs",
             "children": [
               {
-                "id": "c6751e1629aba6fa",
+                "id": "7cebef60831359e5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ReadingNotes/26 - March -/Notes - chapters 1 & 2 Altman, Film Genre.md",
+                    "file": "Writing/Literature review (20-30)/Literature review framework.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Notes - chapters 1 & 2 Altman, Film Genre"
+                  "title": "Literature review framework"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 836,
-        "y": 25,
-        "width": 604,
-        "height": 875,
+        "x": 835,
+        "y": 36,
+        "width": 600,
+        "height": 835,
         "maximize": false,
-        "zoom": -0.5
+        "zoom": 0
       }
     ]
   },
-  "active": "9f42453c10441da1",
+  "active": "3325fb7edf00f4e1",
   "lastOpenFiles": [
-    "Writing/Literature review.md",
-    "Summer plan 2026.md",
-    "Supervision meeting notes/2026.03.20.md",
-    "Writing",
-    "Supervision meeting notes/2026.03.13.md",
+    "Media/Texts/_OceanofPDF.com_Carmilla_-_Carmen_Maria_Machado.pdf",
+    "Writing/Literature review (20-30)/Literature review framework.md",
+    "Media/Texts/Report on Copyright and Artificial Intelligence - GOV.UK.pdf",
+    "Media/Texts/_OceanofPDF.com_Carmilla_-_Carmen_Maria_Machado.epub",
+    "Media/Texts/DA-2021_7(1)-Dancing+somebody+else's+movements (2).pdf",
+    "Media/Texts/The Auto-Tuned Self- Modulating Voice and Gender in Digital Media Ecologies.pdf",
     "Media/Texts/Request list library access.md",
-    "Areas of focus/Fan fiction and genre hopping.md",
-    "Media/Texts/2006.05380v3.pdf",
-    "ReadingNotes/26 - March -/Notes - chapters 1 & 2 Altman, Film Genre.md",
-    "Media/Texts/altman-film-genre-ch-1-and-2.pdf",
+    "Media/Texts/Stengers an ecology of practices.pdf",
+    "Media/Texts/spearman-2024-a-quantitative-and-qualitative-exploration-of-futuristic-narratives-on-tvtropes-org.pdf",
+    "Media/Texts/Rees_AL_A_History_of_Experimental_Film_and_Video_1999.pdf",
+    "Media/Texts/Questions of genre.pdf",
+    "Media/Texts/project_muse_7508.pdf",
+    "Writing/Literature review (20-30)/Literature review notes, organisation.md",
+    "Bodies in Digital Transition.md",
+    "Admin to do.md",
+    "Supervision meeting notes/Untitled.md",
+    "Applications overview.md",
+    "Description for Caitlyn.md",
+    "ReadingNotes/26 June/Notes - Appropriation.md",
+    "2026-06-16.md",
+    "Practice/Girl with glass experiment,.md",
+    "Practice/26 June 2026.md",
+    "ReadingNotes/26 June/FAE Public AI.md",
+    "Artist references/Artists.md",
+    "ReadingNotes/Notes - Cinematic Intermediaries.md",
     "ReadingNotes/Notes - I am a girl and a PDF.md",
     "ReadingNotes/26 - March -/Notes -  A SemanticSyntactic Approach to Film Genre.md",
-    "Media/Texts/Altman-SemanticSyntacticApproachFilm-1984.pdf",
-    "Media/notesAboutInconsistency.pdf",
-    "ReadingNotes/Notes - Cinematic Intermediaries.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Horror, a literary history.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Glitch feminism.md",
-    "ReadingNotes/25 - 26 Winter/Notes - Examining Collaborative Fanfiction.md",
-    "ReadingNotes/25 - 26 Winter/Notes - 13 Ways of Looking at AI, Art & MusicMN.md",
-    "ReadingNotes/26 - March -",
+    "Templates/Supervision meeting record.md",
     "ReadingNotes/25 - 26 Winter/Notes - Zines and Computational Publishing Practices.md",
-    "Artist references/Artists.md",
-    "Media/Texts/Powers of Horror.pdf",
-    "Venues and activities/Libraries and Archives.md",
-    "Media/Texts/Hollywood Genres (Thomas Schatz).pdf",
-    "Media/Texts/spearman-2024-a-quantitative-and-qualitative-exploration-of-futuristic-narratives-on-tvtropes-org.pdf",
-    "Media/Texts/Crowd-based_Information_Organization__A_Case_Study_of_the_Folk_Ontologies_in_Wikipedia_and_TV_Tropes.pdf",
-    "Venues and activities/Reading groups.md",
-    "Venues and activities/Film festivals.md",
+    "ReadingNotes/25 - 26 Winter/Notes - Horror, a literary history.md",
+    "Supervision meeting notes/2026.05.22.md",
+    "Templates/Supervision meeting no..md",
+    "Supervision meeting notes/2026.01.16.md",
+    "Supervision meeting notes/2026.01.30.md",
+    "Supervision meeting notes/2026.03.13.md",
     "Media/Practice map.jpg",
+    "Areas of focus/Areas of focus.canvas",
+    "Untitled.canvas",
     "Media/Internet_dog.jpg",
     "Media/ahs-american-horror-story.gif",
-    "Tools/Resources.md",
-    "Research website/Tasks.md",
-    "Supervision meeting notes/2025.14.10.md",
-    "Supervision meeting notes/2026.02.06.md",
-    "Applications overview.md",
-    "Presentations/Computing PhD Student research afternoons call for talks.md",
-    "Supervision meeting notes/2026.01.30.md",
     "Venues and activities/Untitled.canvas",
-    "Areas of focus/Areas of focus.canvas",
     "IMG_1604.jpg",
     "Media/IMG_1604.PNG",
     "Reading List/Untitled.canvas"

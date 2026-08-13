@@ -4,68 +4,220 @@
   "palette": [
     {
       "id": "VP00iOYe_PuPVqgot-lDC",
-      "name": "Haven't started",
-      "value": "#ff0000"
+      "name": "Appropriation copying and complicating authorship",
+      "value": "#0c97ed"
     },
     {
       "id": "6-rO7sCI6JyNbuLEboatk",
-      "name": "Half read",
-      "value": "#ffae00"
+      "name": "Copywrite",
+      "value": "#ffbd2e"
     },
     {
       "id": "x8mrRqZZHmY1rkF5v3P23",
-      "name": "Read once",
-      "value": "#00ff40"
+      "name": "Genre",
+      "value": "#a6ff00"
+    },
+    {
+      "id": "QKNh-dRxWnlQLussqGUo-",
+      "name": "Gothic horror",
+      "value": "#ff00f7"
+    },
+    {
+      "id": "3-focfFIqqcGcKnMzF2F9",
+      "name": "Dissemination of fan works",
+      "value": "#0ffffb"
+    },
+    {
+      "id": "6hYKLspAUrYk1LJGoFRFM",
+      "name": "Artists",
+      "value": "#ff6600"
+    },
+    {
+      "id": "7xJqpcPwPabBdMBn0eXE7",
+      "name": "MISC",
+      "value": "#ffffff"
     }
   ],
   "fileColors": [
     {
-      "path": "Media/Texts/Examining_Collaborative_Fanfiction_New_Practices_i.pdf",
+      "path": "Media/Texts/2_van der Merwe_Przegląd-Kulturoznawczy_4_2025.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/2006.05380v3.pdf",
       "color": "x8mrRqZZHmY1rkF5v3P23"
     },
     {
-      "path": "Media/Texts/Cinematic Intermediality.pdf",
-      "color": "VP00iOYe_PuPVqgot-lDC"
+      "path": "Media/Texts/9783839455593.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
     },
     {
-      "path": "Media/Texts/GlitchFem.pdf",
-      "color": "6-rO7sCI6JyNbuLEboatk"
-    },
-    {
-      "path": "Media/Texts/Walshe_2023_13_ways_of.pdf",
-      "color": "6-rO7sCI6JyNbuLEboatk"
-    },
-    {
-      "path": "Media/Texts/Zines_And_Computational_Publishing_Practices_A_Cou.pdf",
+      "path": "Media/Texts/altman-film-genre-ch-1-and-2.pdf",
       "color": "x8mrRqZZHmY1rkF5v3P23"
-    },
-    {
-      "path": "Media/Texts/Theorizing_Film_Through_Contemporary_Art_-_Jill_Murphy.pdf",
-      "color": "VP00iOYe_PuPVqgot-lDC"
-    },
-    {
-      "path": "Media/Texts/Rees_AL_A_History_of_Experimental_Film_and_Video_1999.pdf",
-      "color": "VP00iOYe_PuPVqgot-lDC"
-    },
-    {
-      "path": "Media/Texts/Questions of genre.pdf",
-      "color": "VP00iOYe_PuPVqgot-lDC"
     },
     {
       "path": "Media/Texts/Altman-SemanticSyntacticApproachFilm-1984.pdf",
       "color": "x8mrRqZZHmY1rkF5v3P23"
     },
     {
-      "path": "Media/Texts/Hollywood Genres (Thomas Schatz).pdf",
+      "path": "Media/Texts/Appropriation.pdf",
       "color": "VP00iOYe_PuPVqgot-lDC"
     },
     {
-      "path": "Media/Texts/Powers of Horror.pdf",
+      "path": "Media/Texts/BREHOB Online Academics.pdf",
+      "color": "3-focfFIqqcGcKnMzF2F9"
+    },
+    {
+      "path": "Media/Texts/Cinematic Intermediality.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Crowd-based_Information_Organization__A_Case_Study_of_the_Folk_Ontologies_in_Wikipedia_and_TV_Tropes.pdf",
+      "color": "3-focfFIqqcGcKnMzF2F9"
+    },
+    {
+      "path": "Media/Texts/DA-2021_7(1)-Dancing+somebody+else's+movements (2).pdf",
       "color": "6-rO7sCI6JyNbuLEboatk"
     },
     {
-      "path": "Media/Texts/altman-film-genre-ch-1-and-2.pdf",
+      "path": "Media/Texts/EBSCO-FullText-05_08_2026.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Examining_Collaborative_Fanfiction_New_Practices_i.pdf",
+      "color": "3-focfFIqqcGcKnMzF2F9"
+    },
+    {
+      "path": "Media/Texts/FAE2_ArtxMetaverse_digital.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/FAE3_ArtxDecentralised-Tech (1).pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/FAE4_ArtxPublic-AI.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/FAE5_Art-x-Creative-RD.25.06.23.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/Future-Art-Ecosystems-1-Art-and-Advanced-Technologies_July_2020.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/GlitchFem.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/Hollywood Genres (Thomas Schatz).pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/530621723-David-Church-Post-Horror-Art-Genre-and-Cultural-Elevation-Edinburgh-University-Press-2021.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/ART_Williams_2009a (1).pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/Gothic v Gothick Gilda Williams.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/journal.pone.0249957.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/kpag001.pdf",
       "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/Lippard_Lucy_R_ed_Surrealists_on_Art_1970.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/MAUER-EpistemologyCindySherman-2005.pdf",
+      "color": "6hYKLspAUrYk1LJGoFRFM"
+    },
+    {
+      "path": "Media/Texts/Post-Carroll_Functional_Eleme.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Zines_And_Computational_Publishing_Practices_A_Cou.pdf",
+      "color": "3-focfFIqqcGcKnMzF2F9"
+    },
+    {
+      "path": "Media/Texts/Walshe_2023_13_ways_of.pdf",
+      "color": "VP00iOYe_PuPVqgot-lDC"
+    },
+    {
+      "path": "Media/Texts/Trope Propagation in the Cultural SpaceTrope Propagation in the Cultural Space.pdf",
+      "color": "3-focfFIqqcGcKnMzF2F9"
+    },
+    {
+      "path": "Media/Texts/Theorizing_Film_Through_Contemporary_Art_-_Jill_Murphy.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/The_Anthem_Handbook_of_Screen_Theory_----_(Introduction _POST-_GRAND_CLASSICAL_OR_“SO-CALLED”_WHAT_IS_AND_WAS_FIL...).pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/The Ghost in the Image_ Technology and Reality in the Horror Genr.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/The J of Popular Culture - 2018 - Hwang - What Does Art Have to Do with a Guy Eating a Live Octopus    The Transpacific.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/lvaro-GenreFantasyMelodrama-2004.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/Powers of Horror.pdf",
+      "color": "QKNh-dRxWnlQLussqGUo-"
+    },
+    {
+      "path": "Media/Texts/project_muse_7508.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Questions of genre.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
+    },
+    {
+      "path": "Media/Texts/Rees_AL_A_History_of_Experimental_Film_and_Video_1999.pdf",
+      "color": "6hYKLspAUrYk1LJGoFRFM"
+    },
+    {
+      "path": "Media/Texts/spearman-2024-a-quantitative-and-qualitative-exploration-of-futuristic-narratives-on-tvtropes-org.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/Stengers an ecology of practices.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/The Auto-Tuned Self- Modulating Voice and Gender in Digital Media Ecologies.pdf",
+      "color": "7xJqpcPwPabBdMBn0eXE7"
+    },
+    {
+      "path": "Media/Texts/Report on Copyright and Artificial Intelligence - GOV.UK.pdf",
+      "color": "6-rO7sCI6JyNbuLEboatk"
+    },
+    {
+      "path": "Media/Texts/_OceanofPDF.com_Carmilla_-_Carmen_Maria_Machado.pdf",
+      "color": "x8mrRqZZHmY1rkF5v3P23"
     }
   ]
 }

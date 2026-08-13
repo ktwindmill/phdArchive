@@ -1,6 +1,6 @@
 What does it mean to be inconsistent in voice, emulate voice?
 	Generating text in the style of xxx
-What does it mean to work with tropes of certain types of fictions i.e. artists essays showing a dystopia/sci fi utopia?
+What does it mean to work with tropes of certain types of fictions i.e. [[artists]] essays showing a dystopia/sci fi utopia?
 Does it act as a manifesto of sorts? What does it mean to create visions of dystopian futures, with the tools of the dystopian future?
 
 

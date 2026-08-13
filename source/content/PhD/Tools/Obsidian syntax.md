@@ -208,7 +208,7 @@ e.g.
 ``` html
 <iframe src="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights" style="width:100%; height:500px"></iframe>
 ```
-This means you can link directly to sites, feeds and resources you might want to access.Think opportunities, journals and docs etc.
+This means you can link directly to sites, feeds and [[resources]] you might want to access.Think opportunities, journals and docs etc.
 
 ---
 ## Shared pads?
