@@ -8,7 +8,7 @@ https://spectrumwriters.com/](https://eur01.safelinks.protection.outlook.com/?ur
 
   
 
-City Lit ( I did a writing course there a long time ago but really enjoyed it) 
+City Lit (we need cash money)
 
   The other writing group on a monday 
 

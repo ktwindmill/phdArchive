@@ -6,10 +6,17 @@ views:
     name: Table
     order:
       - file.name
-      - "]"
       - Unread
       - file.ext
-      - Paper
+      - Subject
     sort:
+      - property: file.ext
+        direction: DESC
+      - property: Subject
+        direction: ASC
+      - property: Unread
+        direction: ASC
+      - property: "]"
+        direction: DESC
       - property: new thing
         direction: ASC
