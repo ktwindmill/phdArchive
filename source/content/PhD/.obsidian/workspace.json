@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f276c1457e54f022",
+        "id": "98569f7bb689e354",
         "type": "tabs",
         "children": [
           {
-            "id": "fc75d420c7c427ad",
+            "id": "cccbe19a4075ab65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing to prompts.md",
+                "file": "Applications/Transmediale 2027.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing to prompts"
+              "title": "Transmediale 2027"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,33 +196,33 @@
     "type": "floating",
     "children": [
       {
-        "id": "456e7a53812ee6c9",
+        "id": "e7d0482ef923146e",
         "type": "window",
         "children": [
           {
-            "id": "d322452179377317",
+            "id": "08e830ba826c7efe",
             "type": "tabs",
             "children": [
               {
-                "id": "7cebef60831359e5",
+                "id": "404ae697dbeb4b5e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Literature review (20-30)/Literature review framework.md",
+                    "file": "Presentations/Bodies in digital transition presentation outline.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Literature review framework"
+                  "title": "Bodies in digital transition presentation outline"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 835,
-        "y": 36,
+        "x": 840,
+        "y": 56,
         "width": 600,
         "height": 835,
         "maximize": false,
@@ -228,21 +230,33 @@
       }
     ]
   },
-  "active": "fc75d420c7c427ad",
+  "active": "404ae697dbeb4b5e",
   "lastOpenFiles": [
+    "Applications/Transmediale 2027.md",
+    "Presentations/Bodies in digital transition presentation outline.md",
+    "Applications/Bodies in Digital Transition.md",
+    "Applications/Applications overview.md",
+    "Presentations/Computing PhD Student research afternoons call for talks.md",
+    "Presentations/phdPresentation.pdf",
+    "2nd September.md",
+    "ReadingNotes/Notes - The Gothic.md",
+    "ReadingNotes/Notes - Horror, a literary history unfinished.md",
+    "Reading List/Preliminary reading list.md",
+    "Reading List/Journals & publications.md",
+    "Reading List/READING LIST Autumn 2025.md",
+    "Untitled 5.base",
+    "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
+    "Notes on the Gothic for presentation.md",
+    "Media/Texts/Examining_Collaborative_Fanfiction_New_Practices_i.pdf",
+    "ReadingNotes/Notes - Examining Collaborative Fanfiction.md",
+    "Writing to prompts.md",
     "ReadingNotes/Notes - The Queer Uncanny.md",
     "ReadingNotes/Notes - Practice Based Research A guide (unfinished).md",
-    "ReadingNotes/Notes - The Gothic.md",
-    "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
-    "Writing to prompts.md",
     "2026-08-25.md",
     "Media/Texts/PBR Guide-1.1-2006.pdf",
     "Writing/Literature review (20-30)/Literature review framework.md",
-    "Untitled 5.base",
-    "Notes on the Gothic for presentation.md",
     "Untitled.base",
     "Media to do.md",
-    "Applications/Bodies in Digital Transition.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -253,18 +267,7 @@
     "ReadingNotes/Notes - I am a girl and a PDF.md",
     "ReadingNotes/Notes - Cinematic Intermediaries.md",
     "ReadingNotes/Notes -  A SemanticSyntactic Approach to Film Genre.md",
-    "ReadingNotes/26 - March -/Notes - chapters 1 & 2 Altman, Film Genre.md",
-    "ReadingNotes/Notes - Zines and Computational Publishing Practices.md",
-    "ReadingNotes/Notes - Horror, a literary history unfinished.md",
-    "ReadingNotes/Notes - Glitch feminism unfinished.md",
-    "ReadingNotes/Notes - Examining Collaborative Fanfiction.md",
     "Untitled 1.base",
-    "Writing/Literature review (20-30)/Literature review notes, organisation.md",
-    "Misc notes and diaries/Summer plan 2026.md",
-    "Admin to do.md",
-    "Misc notes and diaries/Description for Caitlyn.md",
-    "Applications",
-    "Overview.base",
     "Media/Practice map.jpg",
     "Areas of focus/Areas of focus.canvas",
     "Untitled.canvas",
