@@ -1,2 +1,9 @@
 .trash/*
 /source/content/PhD/private/
+
+# build output & dependencies
+source/node_modules/
+source/public/
+source/quartz/.quartz-cache/
+source/tsconfig.tsbuildinfo
+.DS_Store
