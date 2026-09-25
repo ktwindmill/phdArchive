@@ -1,0 +1,22 @@
+properties:
+  note.]:
+    displayName: Author
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Unread
+      - file.ext
+      - Subject
+    sort:
+      - property: file.ext
+        direction: DESC
+      - property: Subject
+        direction: ASC
+      - property: Unread
+        direction: ASC
+      - property: "]"
+        direction: DESC
+      - property: new thing
+        direction: ASC
