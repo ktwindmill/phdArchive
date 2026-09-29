@@ -6,6 +6,7 @@
       {
         "id": "dad07ee8f1b4ea1f",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "e69c995bc142dc4a",
@@ -24,35 +25,21 @@
             }
           },
           {
-            "id": "1c989f4c99bca12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Applications/Bodies in Digital Transition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bodies in Digital Transition"
-            }
-          },
-          {
             "id": "87dfaa3043a2b641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/Transmediale 2027.md",
+                "file": "ReadingNotes/Note -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transmediale 2027"
+              "title": "Note -"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +157,16 @@
             }
           },
           {
+            "id": "6d5a7ea4afdf5de3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "719a2678335869fb",
             "type": "leaf",
             "state": {
@@ -199,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,10 +221,23 @@
   },
   "active": "87dfaa3043a2b641",
   "lastOpenFiles": [
+    "Media/Texts/transmediale _ [CLOSED] Open Call for DARC PhD_Research Workshop.pdf",
+    "ReadingNotes/Note -.md",
+    "Media/Texts/De_Valk_Marloes_2009_Tools_to_Fight_Boredom_FLOSS_and_GNU_Linux_for_Artists_Working_in_the_Field_of_Generative_Music_and_Software_Art.pdf",
+    "Media/Texts/flugschriften-6-bogna-konior-the-dark-forest-theory-of-the-internet-v.2.pdf",
+    "Media/Texts/The_DarkForestAnthologyoftheInternet.pdf",
+    "ReadingNotes/Notes - The Dark Forest Theory of the Internet.md",
+    "ReadingNotes/Note - Open Call for DARC PhD Research Workshop.md",
     "Applications/Bodies in Digital Transition.md",
+    "Chats/Origin of Waiting Skeleton Meme.pdf",
+    "Chats/whose work is this_ - Google Search.pdf",
+    "Chats",
+    "Applications/Transmediale 2027.md",
+    "ReadingNotes/Notes - Practice Based Research A guide (unfinished).md",
+    "Untitled.md",
+    "Tools/Obsidian syntax.md",
     "Admin to do.md",
     "Dump!.md",
-    "Tools/Obsidian syntax.md",
     "Practice/Girl with glass experiment,.md",
     "18.09.26.md",
     "Media/Texts/GlitchFem.pdf",
@@ -245,21 +255,7 @@
     "Conference notes/Bodies in Digital Transition.md",
     "Practice/Creative writing/Ideas.md",
     "Untitled 6.base",
-    "Untitled 4.base",
     "Practice/Creative writing/Writing to prompts.md",
-    "ReadingNotes/Notes - The Gothic.md",
-    "Misc notes and diaries/2026-08-25.md",
-    "Supervision meeting notes/2nd September.md",
-    "Conference notes",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
-    "Applications/Transmediale 2027.md",
-    "ReadingNotes/Notes - Horror, a literary history unfinished.md",
-    "Reading List/Preliminary reading list.md",
-    "Reading List/Journals & publications.md",
     "Media/Practice map.jpg",
     "Areas of focus/Areas of focus.canvas",
     "Untitled.canvas",
