@@ -61,6 +61,8 @@ ISBN: 978-0-85488-155-0 (Whitechapel)
 
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=15&selection=161,0,164,81&color=yellow|484076769-gilda-williams-the-gothic-1, p.15]]
 > > Always present in the Gothic is this; tw o things that should have remained apart - for example, madness and science; the living and the dead; technology and the human body; the pagan and the Christian; innocence and corruption; the suburban and the rural - are brought together, w ith te rrifying consequences
+> > #Tessay 
+> > 
 
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=16&selection=14,0,15,29&color=yellow|484076769-gilda-williams-the-gothic-1, p.16]]
 > > The Gothic is anti-bourgeois and rejects such values as hard work, fam ily, good cheer and common sense. 
@@ -159,6 +161,7 @@ This chapter introduces the rest of the book which is divided into tropes or the
 
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=27&selection=7,55,11,1&color=yellow|484076769-gilda-williams-the-gothic-1, p.27]]
 > > complex, problem atic status as a category. 
+> > #Tessay 1
 
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=27&selection=35,0,50,64&color=yellow|484076769-gilda-williams-the-gothic-1, p.27]]
 > > all attem pted classifying systems are both inconsistent and incomplete and evade the problem of its historical development. 
@@ -209,7 +212,7 @@ Read this in more detail #PotentialReading Art of Darkness Poetics of the Gothic
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=31&selection=8,0,27,1&color=yellow|484076769-gilda-williams-the-gothic-1, p.31]]
 > > The psychological theory o f the double is both reductive and powerful. It assumes that we are all playing a role in life, that inside a raving beast waits for the chains to loosen or snap. Doubles stories seem to proliferate when people sense an unnegotiable divide between the true or natural self and society, between nature and culture. 
 > 
-> Again, this thing about the Queer Gothic [[Notes - The Queer Uncanny]] double life lived by passing
+> Again, this thing about the Queer Gothic [[Notes - The Queer Uncanny]] double life lived by passing #Tessay 
 
 > [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=31&selection=43,7,44,34&color=yellow|484076769-gilda-williams-the-gothic-1, p.31]]
 > >  Gothic works invite the audience to acquaint themselves w ith, and to fear, the shadow that dwells w ithin . (
@@ -245,7 +248,67 @@ Read this in more detail #PotentialReading Art of Darkness Poetics of the Gothic
 > 
 >  Woosh
 
+
+
 # Mike Kelly, Urban Gothic 1985
 
 
+
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=38&selection=66,0,76,60&color=yellow|484076769-gilda-williams-the-gothic-1, p.38]]
+> > [8] Kelley consulted M.J. Maclnnes, Nature to Advantage Dress’d, Being a Study of the Sister Arts of Painting Poetry & Gardening as Practis’d in Diverse Countries of Europe during the Years 1700 to 1800 with Remarks on Architecture... (Minneapolis: Ross and Haines, 1960), which reproduces James W yatt’s Fonthill Abbey (1796-1807); Sir Horace Walpole’s Strawberry H ill in Twickenham (1750-1776); as well as artificial Gothic ruins or ‘follies’
+
+Ai as gothic follie?
+# Christoph Griinenberg Gothic: Transmutations of Horror in Late Twentieth Century Art//1997
+
+> [!PDF|note] [[484076769-gilda-williams-the-gothic-1.pdf#page=39&selection=44,0,63,14&color=note|484076769-gilda-williams-the-gothic-1, p.39]]
+> > It challenges the anxious adherence to smooth operation and undisturbed functionality,
+> > Tessay
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=39&selection=96,12,120,38&color=yellow|484076769-gilda-williams-the-gothic-1, p.39]]
+> >  preoccupation w ith ‘paranoia’ ('the "implicated” reader is placed in a situation of ambiguity w ith regard to fears in the text’), ‘the notion of the barbaric’ (bringing us up 'against the boundaries of the civilized’ and 'fear of racial degeneracy’) and ‘the nature taboo’ (addressing ‘areas o f sociopsychological life which offend, which are suppressed’).2
+
+> [!PDF|red] [[484076769-gilda-williams-the-gothic-1.pdf#page=44&selection=35,0,43,51&color=red|484076769-gilda-williams-the-gothic-1, p.44]]
+> > [69] David Punter, The Literature of Terror: A History of Gothic Fictions from 1765 to the Present (London and New York: Longman, 1996) vol. 2; 183-4.
+> 
+>  #PotentialReading 
+
+> [!PDF|red] [[484076769-gilda-williams-the-gothic-1.pdf#page=39&selection=161,21,163,66&color=red|484076769-gilda-williams-the-gothic-1, p.39]]
+> > uncanny, the fantastic and pathological, and the tension between the artificial and organic are infused w ith new potency as contemporary artists address concerns about the body, disease, voyeurism and power
+> > #TEssay
+> > 
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=39&selection=177,0,181,5&color=yellow|484076769-gilda-williams-the-gothic-1, p.39]]
+> > agreeable, inoffensive beauty
+> 
+> Is this what we want? Is this what we are making?
+
+> [!PDF|red] [[484076769-gilda-williams-the-gothic-1.pdf#page=41&selection=36,0,41,1&color=red|484076769-gilda-williams-the-gothic-1, p.41]]
+> >  Combining the sacrilegious transmutation of classics from art history, authentic documentary sources and their own genetic laboratory games, the artists succeed in their objective to reduce ‘the viewer to a state of absolute moral panic’.10
+> >
+> >  Is this a model? Its a version of appropriation 
+
+> [!PDF|red] [[484076769-gilda-williams-the-gothic-1.pdf#page=41&selection=136,0,142,5&color=red|484076769-gilda-williams-the-gothic-1, p.41]]
+> > Douglas Gordon’s Twenty-Four Hour Psycho (1995
+> 
+> 
+
+> [!PDF|important] [[484076769-gilda-williams-the-gothic-1.pdf#page=42&selection=91,14,91,73&color=important|484076769-gilda-williams-the-gothic-1, p.42]]
+> >  ‘whether a lifeless object might not in fact be animate’, 
+> 
+> Is this the point? That ai seems real?
+
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=43&selection=3,0,23,1&color=yellow|484076769-gilda-williams-the-gothic-1, p.43]]
+> > Abjection in art produces rejection, disgust, repulsion and severs ‘the identificatory bonds between the viewer and the image’.19
+> 
+> Are AI images abject? 
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=43&selection=94,1,113,58&color=yellow|484076769-gilda-williams-the-gothic-1, p.43]]
+> > nconsistent narratives and an excess o f morphological, disjoined and decentralized forms and shapes - an ‘uncanny pathos which attaches to the animation of the inorganic’, as W ilhelm Worringer defined the essence of the expressive Gothic.22 The aesthetics of the grotesque and formless is present in much of contemporary art. [...]
+> 
+> #TEssay 
+
+> [!PDF|yellow] [[484076769-gilda-williams-the-gothic-1.pdf#page=44&selection=0,29,5,36&color=yellow|484076769-gilda-williams-the-gothic-1, p.44]]
+> > No longer concerned w ith the production of grand or majestic terror, the Gothic sublime today reflects a hesitant and apprehensive state of mind obscured by a deep fear of the unfamiliar future: ‘It is the threat of the apocalypse that is the spectacle of the sublime; it is the threat of self extinction and “self-dissolution” that forces the subject to retreat back into the comfortable frame of the beautiful’.
 

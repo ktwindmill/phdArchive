@@ -6,5 +6,7 @@
   "obsidian-file-info-plugin",
   "templater-obsidian",
   "obsidian-file-color",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-icon-folder",
+  "canvas-export"
 ]

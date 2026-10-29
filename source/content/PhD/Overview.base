@@ -10,10 +10,10 @@ views:
       - file.ext
       - Subject
     sort:
+      - property: Subject
+        direction: DESC
       - property: file.ext
         direction: DESC
-      - property: Subject
-        direction: ASC
       - property: Unread
         direction: ASC
       - property: "]"
