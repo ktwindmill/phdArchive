@@ -4,75 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7648a3db53c206c3",
+        "id": "13fb587b30eb2cfb",
         "type": "tabs",
-        "dimension": 31.79650238473768,
         "children": [
           {
-            "id": "69d4f0a7bf3c3d5c",
+            "id": "d5360f2ad832fd00",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
-                "page": 14,
-                "left": -30,
-                "top": 602,
-                "zoom": 0.49415515409139227
+                "file": "Media/Texts/epdf.pub_contemporary-gothic-reaktion-books-focus-on-contemporary-issues.pdf",
+                "page": 18,
+                "left": 16,
+                "top": 558,
+                "zoom": 1.24
               },
               "icon": "lucide-file-text",
-              "title": "484076769-gilda-williams-the-gothic-1"
+              "title": "epdf.pub_contemporary-gothic-reaktion-books-focus-on-contemporary-issues"
             }
-          }
-        ]
-      },
-      {
-        "id": "9703ab700dd30b01",
-        "type": "tabs",
-        "dimension": 68.20349761526232,
-        "children": [
+          },
           {
-            "id": "5148327346fc5b44",
+            "id": "71e8bb14c5c57599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadingNotes/Notes - The Gothic.md",
+                "file": "Reading prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes - The Gothic"
-            }
-          },
-          {
-            "id": "c8fe16f712e9cf52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DARC.Transmediale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DARC.Transmediale"
-            }
-          },
-          {
-            "id": "f3e1df84c8295c96",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Media/Texts/wsoon,+01_Cox_APRJA_6.1_MACHINE_RESEARCH (1).pdf",
-                "page": 6,
-                "left": -23,
-                "top": 36,
-                "zoom": 0.6453781512605042
-              },
-              "icon": "lucide-file-text",
-              "title": "wsoon,+01_Cox_APRJA_6.1_MACHINE_RESEARCH (1)"
+              "title": "Reading prep"
             }
           }
         ]
@@ -110,7 +72,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -133,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,31 +221,73 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5148327346fc5b44",
+  "floating": {
+    "id": "59cbc87a89cbd4e0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1d76065e8c044c46",
+        "type": "window",
+        "children": [
+          {
+            "id": "686105e94a3d123c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02605bc96c3840df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Contemporary Gothic.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes - Contemporary Gothic"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 739,
+        "y": 30,
+        "width": 600,
+        "height": 830,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "02605bc96c3840df",
   "lastOpenFiles": [
+    "Media/Texts/epdf.pub_contemporary-gothic-reaktion-books-focus-on-contemporary-issues.pdf",
+    "Notes - Contemporary Gothic.md",
+    "Reading prep.md",
+    "Media/Texts/_OceanofPDF.com_Post-Millennial_Gothic_-_Catherine_Spooner.pdf",
+    "Media/Texts/00_EDITORIAL_4-9_APRJA_Everything_is_a_matter_of_distance_2025.pdf",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "ReadingNotes/Note - Open Call for DARC PhD Research Workshop.md",
+    "DARC.Transmediale.md",
+    "Media/Texts/The_DarkForestAnthologyoftheInternet.pdf",
+    "Notes - The Dark Forest Anthology of the Internet.md",
     "Media/Texts/484076769-gilda-williams-the-gothic-1.pdf",
+    "Untitled 8.base",
+    "Notes - Ways of Machine seeing.md",
+    "Untitled 7.base",
     "ReadingNotes/Notes - The Gothic.md",
     "28th October 2027.md",
     "Notes.md",
-    "DARC.Transmediale.md",
-    "Media/Texts/wsoon,+01_Cox_APRJA_6.1_MACHINE_RESEARCH (1).pdf",
-    "Untitled 3.base",
-    "Notes - The Dark Forest Anthology of the Internet.md",
     "choose your own adventure.canvas",
-    "choose your own adventure.pdf",
     "Choose your own adventure.md",
-    "Untitled 2.base",
     "Monday 5th Supervision meeting.md",
-    "Notes - Ways of Machine seeing.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Untitled 4.base",
     "Areas of focus/Untitled.md",
-    "Overview.base",
     "ReadingNotes/Notes - The Dark Forest Theory of the Internet.md",
     "Dump!.md",
     "ReadingNotes/Notes - Horror, a literary history unfinished.md",
-    "Media/Texts/The_DarkForestAnthologyoftheInternet.pdf",
     "Applications/Transmediale 2027.md",
     "Media/Practice map.jpg",
     "ReadingNotes/Notes - Blogs.md",
@@ -292,13 +295,10 @@
     "ReadingNotes/Notes - 13 Ways of Looking at AI, Art & MusicMN.md",
     "Applications/Bodies in Digital Transition.md",
     "ReadingNotes/Note -.md",
-    "ReadingNotes/Note - Open Call for DARC PhD Research Workshop.md",
     "ReadingNotes/Notes - Practice Based Research A guide (unfinished).md",
     "Tools/Obsidian syntax.md",
     "Admin to do.md",
     "Practice/Girl with glass experiment,.md",
-    "18.09.26.md",
-    "ReadingNotes/Notes - Glitch feminism unfinished.md",
     "Areas of focus/Areas of focus.canvas",
     "Media/Internet_dog.jpg",
     "Media/ahs-american-horror-story.gif",
